@@ -1,0 +1,22 @@
+label,obs
+#Location,Bonnie Park
+#Site,3
+#Pit_ID,20220131clebp3
+#Date_Time,2022-01-31-12:00
+#UTM_Zone,17T
+#Easting,430162
+#Northing,4576024
+#Slope,0
+#Aspect,0
+#Air_Temp(deg_c),-2.5
+#Total_depth(cm),20
+#Surveyors,Kaitlin Meyer
+#Weather,NaN
+#Precip,None
+#Sky,CLR
+#Wind,Calm
+#Ground_condition,0
+#Ground_vegetation,grass
+#Vegetation_height,0
+#Tree_canopy,partial
+#Comments,Pit is in the shade of a very large tree

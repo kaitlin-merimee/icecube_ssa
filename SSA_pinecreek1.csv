@@ -1,0 +1,46 @@
+#Location,Tetons,,,,,,,,
+#Site,Pine Creek Pass Snotel,,,,,,,,
+#Pit_ID,pine_creek1,,,,,,,,
+#Date_Time,2022-03-10-1300,,,,,,,,
+#UTM_Zone,12T,,,,,,,,
+#Easting,482893,,,,,,,,
+#Northing,4824138,,,,,,,,
+#Instrument,IceCube,,,,,,,,
+#Profile_ID,N/A,,,,,,,,
+#Operator,Kaitlin ,,,,,,,,
+#Timing,1.5 hrs,,,,,,,,
+#Notes,n/a,,,,,,,,
+#Total_snow_depth(cm),88,,,,,,,,
+#,,,,,,,,,
+#Sample_signal(mV),Reflectance,Specific_surface_area(m^2/kg),Sample_top_height(cm),grain_type,density,Method,Air Temp,Snow Temp,Moisture
+595,52.35,55,88,DF,113.5,compacted,-9.9,-7.4,D
+614,53.64,59.1,85,DF,113.5,compacted,-9.9,NaN,D
+564,50.19,48.9,82,DF,113.5,compacted,-9.9,-9.5,D
+582,51.45,52.4,79,DF,217.5,compacted,-9.9,-9.5,D
+539,48.41,44.3,76,DF,217.5,compacted,-9.9,NaN,D
+235,22.6,10.9,74,MFcr,217.5,stacked,-9.9,NaN,D
+342,32.64,18.8,72,FC,217.5,normal,-9.9,-6.8,D
+270,26.02,13.2,69,MFcr,217.5,stacked,-9.9,-6.8,D
+250,24.08,11.9,69,MFcr,217.5,stacked,-9.9,-6.8,D
+300,28.84,15.4,69,FC,217.5,no crust,-9.9,-6.8,D
+245,23.59,11.6,65,MFcr,248,stacked,-9.9,NaN,D
+275,26.49,13.6,64,FC,248,normal,-9.9,NaN,D
+268,25.82,13.1,61,FC,248,normal,-9.9,-4.5,D
+220,21.09,10,58,FC,285,normal,-9.9,NaN,D
+251,24.18,11.9,55,FC,285,normal,-9.9,NaN,D
+256,24.66,12.3,51,FC,285,normal,-9.9,-3.1,D
+238,22.9,11.1,48,FCxr,309,normal,-9.9,NaN,D
+255,24.57,12.2,45,FCxr,309,normal,-9.9,NaN,D
+233,22.4,10.8,42,FCxr,309,normal,-9.9,NaN,D
+266,25.63,12.9,39,FCxr,309,normal,-9.9,-2.6,D
+235,22.6,10.9,36,FCxr,241.5,normal,-9.9,NaN,D
+284,27.35,14.2,33,RG,241.5,normal,-9.9,NaN,D
+215,20.58,9.6,30,RG,241.5,normal,-9.9,-2,D
+272,26.21,13.3,27,RG,241.5,normal,-9.9,NaN,D
+205,19.56,9,24,RG,241.5,shaved,-9.9,NaN,D
+256,24.66,12.3,21,RG,241.5,shaved,-9.9,-1.5,D
+255,24.57,12.2,18,RG,345.5,shaved,-9.9,NaN,D
+254,24.47,12.1,15,RG,345.5,shaved,-9.9,NaN,D
+254,24.47,12.1,12,RG,345.5,shaved,-9.9,NaN,D
+256,24.66,12.3,9,RG,345.5,shaved,-9.9,-0.7,D
+265,25.54,12.9,6,RG,NaN,shaved,-9.9,NaN,D

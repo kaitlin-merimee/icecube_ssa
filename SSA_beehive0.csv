@@ -1,0 +1,24 @@
+#Location,Montana,,,
+#Site,Beehive Trailhead,,,
+#Pit_ID,beehive0,,,
+#Date_Time,1/7/2022-1535,,,
+#UTM_Zone,12T,,,
+#Easting,469887,,,
+#Northing,5017176,,,
+#Instrument,,,,
+#Profile_ID,,,,
+#Operator,Kaitlin Meyer,,,
+#Timing,30min,,,
+#Notes,IceCube blew over and got snow inside,,,
+#Total_snow_depth(cm),75,,,
+#,,,,
+#Sample_signal(mV),Reflectance,Specific_surface_area(m^2/kg),Sample_top_height(cm),Comments
+630.3,54.72,62.9,75,unpacked
+660.6,56.69,70.4,75,unpacked
+659.4,56.61,70.1,75,packed 1.5
+673.5,57.51,73.8,75,packed 1.5
+474.1,43.6,34.2,70,unpacked
+553.3,49.45,47,70,packed 1.5
+509.1,46.24,39.5,70,packed 2
+530.2,47.79,42.9,65,
+503.5,45.82,38.6,65,

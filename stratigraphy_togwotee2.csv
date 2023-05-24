@@ -1,0 +1,20 @@
+#Location,Tetons,,,,,,
+#Site,Togwottee Pass,,,,,,
+#Pit_ID,togwottee2,,,,,,
+#Date_Time,2022-03-31-1400,,,,,,
+#UTM_Zone,12T,,,,,,
+#Easting,5744890,,,,,,
+#Northing,486053,,,,,,
+#Top(cm),Bottom(cm),grain_size,grain_type,secondary_grain_type,hand_hardness,manual_wetness,comments
+125,125,2,PPgp,-,F,D,Almost all these layers have a stratigraphy snow grain pictures. See pictures. 
+125,114,<1,RG,MF,1F,D,
+114,111,"2,4",MFcr,IF,K,D,
+111,103,<1,RG,MF,1F+,D,Melf forms have made their way down into the rounded grains layer
+103,103,"1,2",RG,-,K,D,
+103,100,<1,RG,-,4F,D,
+100,100,"1,2",RG,-,K,D,
+100,99,"1,2",RG,-,1F,D,
+99,76,"2,3",RG,-,4F,M,
+76,36,"1,3",FCxr,RG,1F,M,
+36,9,"2,5",FCxr,-,F,M,
+9,0,"4,8",MF,DHxr,P,M,Some cups that are rounding extensively but are still striated cups (see picures from this day)

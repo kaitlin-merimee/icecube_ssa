@@ -1,0 +1,18 @@
+#Location,Moab,,,,,,
+#Site,La Sal Mountain SnoTel,,,,,,
+#Pit_ID,lasal2,,,,,,
+#Date_Time,2022-03-18-1500,,,,,,
+#UTM_Zone,12S,,,,,,
+#Easting,650836,,,,,,
+#Northing,4260561,,,,,,
+#Top(cm),Bottom(cm),grain_size,grain_type,secondary_grain_type,hand_hardness,manual_wetness,comments
+104,95,<1,DF,-,F,M,
+95,79,<1,RG,-,4F+,D,
+79,66,<1,RG,-,1F,D,
+66,51,"2,3",FCxr,-,F,D,
+51,40,"1,2",FCxr,-,4F,D,Very advanced rounding
+40,32,"2,3",FCxr,-,4F-,D,
+32,29,2,MFcr,-,1F+,M,
+29,10,"2,4",FCxr,-,F,M,less advanced rounding; chains
+10,6,"2,4",MFcr,IF,P,M,Inconsistant layer - chunks of melt freeze or ice
+6,0,"2,6",IF,-,4F-,M,"strations, cups"

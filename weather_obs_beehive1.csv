@@ -1,0 +1,22 @@
+label,obs
+#Location,"Big Sky, MT"
+#Site,Beehive Basin Trailhead Area
+#Pit_ID,beehive1
+#Date_Time,2022-04-12-1400
+#UTM_Zone,12T
+#Easting,469887
+#Northing,5017176
+#Slope,0
+#Aspect,
+#Air_Temp(deg_c),-10.9
+#Total_depth(cm),131
+#Surveyors,Kaitlin Meyer
+#Weather,n/a
+#Precip,<s-1
+#Sky,OVC
+#Wind,Calm
+#Ground_condition,not frozen
+#Ground_vegetation,shrubs
+#Vegetation_height,up to 20cm
+#Tree_canopy,on edge of a meadow next to trees
+#Comments,

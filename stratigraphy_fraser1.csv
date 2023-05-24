@@ -1,0 +1,15 @@
+#Location,Colorado,,,,,,
+#Site,Fraser Experimental Forest HQ,,,,,,
+#Pit_ID,fraser1,,,,,,
+#Date_Time,2022-02-23-11:22,,,,,,
+#UTM_Zone,13S,,,,,,
+#Easting,424546,,,,,,
+#Northing,4417696,,,,,,
+#Top(cm),Bottom(cm),grain_size,grain_type,secondary_grain_type,hand_hardness,manual_wetness,comments
+62,59,<1,PP,-,F,D,"stellars, columns, bullets, capped columns"
+59,52.5,<1,DF,-,F,D,"branches, fragments"
+52.5,37,"1,2",FC,-,F,D,"simple cups, prisms, some striations"
+37,26,"1,2",FC,-,F,D,"simple cups, prisms, some striations"
+26,11,"2,4",FC,-,F,D,"less striations, more prisms than above layers"
+11,5,"2,4",FC,-,F,D,more striations
+5,0,"2,4",FC,-,F,D,many well developed 

@@ -1,0 +1,45 @@
+#Location,Montana,,,,,
+#Site,Highlight Canyon,,,,,
+#Pit_ID,lickcreek1,,,,,
+#Date_Time,2022-01-11-1100,,,,,
+#UTM_Zone,,,,,,
+#Easting,,,,,,
+#Northing,,,,,,
+#Instrument,,,,,,
+#Profile_ID,,,,,,
+#Operator,"Kaitlin Meyer, Paul Merimee",,,,,
+#Timing,1 hour,,,,,
+#Notes,,,,,,
+#Total_snow_depth(cm),26,,,,,
+#,,,,,,
+#Sample_signal(mV),Reflectance,Specific_surface_area(m^2/kg),Sample_top_height(cm),grain_type,density,Comments
+423.2,39.7,27.5,26,DF,NaN,unpacked
+424.9,39.83,27.8,26,DF,NaN,unpacked
+415.3,39.05,26.6,26,DF,NaN,unpacked
+437.8,40.88,29.4,26,DF,NaN,1.5
+446.5,41.57,30.5,26,DF,NaN,1.5
+458.3,42.5,32.1,26,DF,NaN,1.5
+448,41.69,30.7,26,DF,NaN,packed as much as possible
+462.5,42.83,32.7,26,DF,NaN,packed as much as possible
+467.3,43.21,33.4,26,DF,NaN,packed as much as possible
+331.9,31.89,18.1,20,FC,NaN,unpacked
+350.6,33.55,19.7,20,FC,NaN,unpacked
+353.9,33.84,20,20,FC,NaN,unpacked
+308.5,29.76,16.1,20,FC,NaN,1.5
+300,28.97,15.5,20,FC,NaN,1.5
+337.1,32.35,18.5,20,FC,NaN,1.5
+295.5,28.55,15.1,15,FC,NaN,unpacked
+304.2,29.36,15.8,15,FC,NaN,unpacked
+307,29.62,16,15,FC,NaN,unpacked
+300,28.97,15.5,15,FC,NaN,1.5
+316.1,30.46,16.7,15,FC,NaN,1.5
+290.2,28.06,14.7,15,FC,NaN,1.5
+326.5,31.4,17.6,10,FC,NaN,unpacked
+308.2,29.73,16.1,10,FC,NaN,unpacked
+299.8,28.95,15.5,10,FC,NaN,unpacked
+282.5,27.33,14.2,10,FC,NaN,unpacked
+313.4,30.21,16.5,10,FC,NaN,unpacked
+240,23.2,11.3,5,FC,NaN,unpacked
+265,25.65,13,5,FC,NaN,unpacked
+270.4,26.17,13.3,5,FC,NaN,unpacked
+320,30.81,17.1,5,FC,NaN,depth hoar single on top

@@ -1,0 +1,11 @@
+#Location,Bonnie Park,,,,,,
+#Site,3,,,,,,
+#Pit_ID,20220131clebp3,,,,,,
+#Date_Time,2022-01-31-12:00,,,,,,
+#UTM_Zone,17T,,,,,,
+#Easting,430162,,,,,,
+#Northing,4576024,,,,,,
+#Top(cm),Bottom(cm),grain_size,grain_type,,hand_hardness,manual_wetness,comments
+20,19,1-3mm,PP,DF,F,D,
+19,11,1-2mm,DF,-,4F,D,
+11,0,0.5-1.5mm,FGxr,-,4F,D,

@@ -1,0 +1,22 @@
+#Location,"Big Sky, MT"
+#Site,Beehive Basin Trailhead Area
+#Pit_ID,beehive1
+#Date_Time,2022-04-12-1400
+#UTM_Zone,12T
+#Easting,469887
+#Northing,5017176
+#Height(cm),Temperature(degC)
+131,-6.4
+120,-3.4
+110,-4.2
+100,-4.1
+90,-3.5
+80,-3.2
+70,-2.2
+60,-1.7
+50,-1.5
+40,-0.2
+30,-0.1
+20,-0.1
+10,-0.1
+0,0

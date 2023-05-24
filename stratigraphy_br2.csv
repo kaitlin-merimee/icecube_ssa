@@ -1,0 +1,13 @@
+#Location,Montana,,,,,,
+#Site,Yellowstone Park,,,,,,
+#Pit_ID,br2,,,,,,
+#Date_Time,2022-01-14-1400,,,,,,
+#UTM_Zone,12T,,,,,,
+#Easting,494907,,,,,,
+#Northing,4977754,,,,,,
+#Top(cm),Bottom(cm),grain_size,grain_type,secondary_grain_type,hand_hardness,manual_wetness,comments
+75,56,<1,DF,-,4F-,D,
+56,31,<1,RG,-,1F,D,
+31,15,"1,2",FC,-,1F,D,
+15,13,"1,2",MFcr,-,P,D,
+13,0,"1,2",FC,-,4F-,D,

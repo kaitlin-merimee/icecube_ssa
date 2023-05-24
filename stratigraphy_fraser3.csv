@@ -1,0 +1,15 @@
+#Location,Fraser,,,,,,
+#Site,Fraser Experimental Forest HQ,,,,,,
+#Pit_ID,fraser3,,,,,,
+#Date_Time,2022-02-24-1500,,,,,,
+#UTM_Zone,13S,,,,,,
+#Easting,424540,,,,,,
+#Northing,4417651,,,,,,
+#Top(cm),Bottom(cm),grain_size,grain_type,secondary_grain_type,hand_hardness,manual_wetness,comments
+81,76,<1,PP,DF,F,D,
+76,62,<1,DF,-,F,D,
+62,38,"1,2",FCxr,-,F,D,
+38,28,"1,2",FCxr,-,F,D,chains just beginning to freeze
+28,17,"1,3",FCxr,-,4F+,D,"chains, old melt-freeze"
+17,5,"2,4",FC,-,F+,D,"striations, prisms, some cupping, chains"
+5,0,n/a,IFbi,-,K,D,Ice layer is inconsistent and mixed with melt-freeze

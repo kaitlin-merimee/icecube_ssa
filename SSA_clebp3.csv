@@ -1,0 +1,27 @@
+#Location,Bonnie Park,,,,,,,,
+#Site,3,,,,,,,,
+#Pit_ID,20220131clebp3,,,,,,,,
+#Date_Time,2022-01-31-12:00,,,,,,,,
+#UTM_Zone,17T,,,,,,,,
+#Easting,430162,,,,,,,,
+#Northing,4576024,,,,,,,,
+#Instrument,IS3-SP-15-01US,,,,,,,,
+Calibration_quality,excellent,,,,,,,,
+#Operator,Kaitlin Meyer,,,,,,,,
+#Timing,30min,,,,,,,,
+#Notes,NaN,,,,,,,,
+#Total_snow_depth(cm),,,,,,,,,
+#,,,,,,,,,
+#Sample_signal(mV),Reflectance,Specific_surface_area(m^2/kg),Sample_top_height(cm),grain_type,density,Method,Air Temp,Snow Temp,Moisture
+486.3,44.94,36.7,20,PP,105,compacted,-2.5,-5,D
+488.1,45.08,37,20,PP,105,compacted,-2.5,-5,D
+482.1,44.62,36.1,20,PP,105,compacted,-2.5,-5,D
+332.2,32.12,18.3,15,DF,210,compacted,-2.5,-5,D
+367.4,35.24,21.6,15,DF,210,compacted,-2.5,-5,D
+339.9,32.81,19,15,DF,210,compacted,-2.5,-5,D
+345.7,33.33,19.5,10,FCxr,240,shaved,-2.5,-5,D
+330.6,31.97,18.1,10,FCxr,240,shaved,-2.5,-5,D
+326.7,31.62,17.8,10,FCxr,240,shaved,-2.5,-5,D
+314,30.46,16.7,5,FCxr,240,shaved,-2.5,-5,D
+334.8,32.35,18.5,5,FCxr,240,shaved,-2.5,-5,D
+312.2,30.29,16.6,5,FCxr,240,shaved,-2.5,-5,D

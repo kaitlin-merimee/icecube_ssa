@@ -1,0 +1,22 @@
+label,obs
+#Location,Colorado
+#Site,Berthoud Pass
+#Pit_ID,berthoud1
+#Date_Time,2022-02-25-1215
+#UTM_Zone,13S
+#Easting,433402
+#Northing,4406251
+#Slope,0
+#Aspect,N-facing
+#Air_Temp(deg_c),-9.8
+#Total_depth(cm),139
+#Surveyors,"Kaitlin Meyer, Anna Valentine"
+#Weather,Clear
+#Precip,<S-1
+#Sky,BKN
+#Wind,Calm
+#Ground_condition,Frozen
+#Ground_vegetation,grass
+#Vegetation_height,n/a
+#Tree_canopy,open
+#Comments,Next to Berthoud snotel

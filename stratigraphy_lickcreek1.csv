@@ -1,0 +1,10 @@
+#Location,Montana,,,,,,
+#Site,Highlight Canyon,,,,,,
+#Pit_ID,lickcreek1,,,,,,
+#Date_Time,2022-01-11-1100,,,,,,
+#UTM_Zone,,,,,,,
+#Easting,,,,,,,
+#Northing,,,,,,,
+#Top(cm),Bottom(cm),grain_size,grain_type,secondary_grain_type,hand_hardness,manual_wetness,comments
+26,21,<1,DF,-,F,D,
+21,0,"2,4",FC,DH,F+,D,

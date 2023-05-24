@@ -1,0 +1,16 @@
+d,Fraser Experimental Forest,,,,
+#Site,Trees,,,,
+#Pit_ID,fraser2,,,,
+#Date_Time,2022-02-24-1100,,,,
+#UTM_Zone,,,,,
+#Easting,,,,,
+#Northing,,,,,
+#Top(cm),Bottom(cm),Density_A(kg/m^3),Density_B(kg/m^3),Density_C(kg/m^3),Avg_density(kg/m^3)
+81,71,102,104,,103
+71,61,178,177,,177.5
+61,51,188,192,,190
+51,41,236,231,,233.5
+41,31,265,272,,268.5
+31,21,282,295,,288.5
+21,11,246,238,,242
+11,1,264,274,,269

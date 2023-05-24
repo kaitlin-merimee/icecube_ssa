@@ -1,0 +1,15 @@
+#Location,"Yellowstone Park, MT"
+#Site,Bacon Rind
+#Pit_ID,baconrind1
+#Date_Time,2022-04-10-1600
+#UTM_Zone,12T
+#Easting,495173
+#Northing,4977549
+#Height(cm),Temperature(degC)
+54,-2.4
+50,-2
+40,-0.2
+30,-0.1
+20,-0.1
+10,-0.1
+0,0

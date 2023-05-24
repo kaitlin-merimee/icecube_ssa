@@ -1,0 +1,13 @@
+#Location,Montana,,,,,,
+#Site,Kagy Blvd Field,,,,,,
+#Pit_ID,field1,,,,,,
+#Date_Time,2022-01-11-1400,,,,,,
+#UTM_Zone,,,,,,,
+#Easting,,,,,,,
+#Northing,,,,,,,
+#Top(cm),Bottom(cm),grain_size,grain_type,secondary_grain_type,hand_hardness,manual_wetness,comments
+24,23,<1,MFcr,-,P,D,
+23,20,<1,DF,-,F,D,
+20,19,"1,2",MFcr,-,P,D,
+19,8,"2,4",FC,-,F,D,
+8,0,"2,5",DH,-,4F-,D,

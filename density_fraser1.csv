@@ -1,0 +1,14 @@
+#Location,Colorado,,,,
+#Site,Fraser Experimental Forest HQ,,,,
+#Pit_ID,fraser1,,,,
+#Date_Time,2022-02-23-11:22,,,,
+#UTM_Zone,13S,,,,
+#Easting,424546,,,,
+#Northing,4417696,,,,
+#Top(cm),Bottom(cm),Density_A(kg/m^3),Density_B(kg/m^3),Density_C(kg/m^3),Avg_density(kg/m^3)
+62,52,86,90,,88
+52,42,167,167,,167
+42,32,184,165,167,172
+32,22,230,234,,232
+22,12,248,248,,248
+12,2,229,207,238,225

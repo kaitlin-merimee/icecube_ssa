@@ -1,0 +1,16 @@
+#Location,Tetons,,,,
+#Site,Pine Creek Pass Snotel,,,,
+#Pit_ID,pine_creek1,,,,
+#Date_Time,2022-03-10-1300,,,,
+#UTM_Zone,12T,,,,
+#Easting,482893,,,,
+#Northing,4824138,,,,
+#Top(cm),Bottom(cm),Density_A(kg/m^3),Density_B(kg/m^3),Density_C(kg/m^3),Avg_density(kg/m^3)
+88,78,109,118,,113.5
+78,68,228,207,,217.5
+68,58,243,253,,248
+58,48,277,293,,285
+48,38,307,311,,309
+38,28,334,349,,341.5
+28,18,339,344,,341.5
+18,8,330,361,,345.5

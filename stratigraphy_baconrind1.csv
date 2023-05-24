@@ -1,0 +1,11 @@
+#Location,"Yellowstone Park, MT",,,,,,
+#Site,Bacon Rind,,,,,,
+#Pit_ID,baconrind1,,,,,,
+#Date_Time,2022-04-10-1600,,,,,,
+#UTM_Zone,12T,,,,,,
+#Easting,495173,,,,,,
+#Northing,4977549,,,,,,
+#Top(cm),Bottom(cm),grain_size,grain_type,secondary_grain_type,hand_hardness,manual_wetness,comments
+54,51,"1,2",PPr,-,F,D,
+51,17,"2,6",MF,RG,P,M,rounded grains changed into large melt forms
+17,0,"2,8",MF,FC,1F,M,hard layer of old facets that have rounded some and then melted together/transitioned into melt forms 

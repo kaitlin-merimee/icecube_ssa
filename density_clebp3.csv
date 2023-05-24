@@ -1,0 +1,11 @@
+#Location,Bonnie Park,,,,
+#Site,3,,,,
+#Pit_ID,20220131clebp3,,,,
+#Date_Time,2022-01-31-12:00,,,,
+#UTM_Zone,17T,,,,
+#Easting,430162,,,,
+#Northing,4576024,,,,
+#Top(cm),Bottom(cm),Density_A(kg/m^3),Density_B(kg/m^3),Density_C(kg/m^3),Avg_density(kg/m^3)
+20,19,100,110,NaN,105
+19,11,210,210,NaN,210
+11,0,250,230,NaN,240

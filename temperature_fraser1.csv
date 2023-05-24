@@ -1,0 +1,16 @@
+#Location,Colorado
+#Site,Fraser Experimental Forest HQ
+#Pit_ID,fraser1
+#Date_Time,2022-02-23-11:22
+#UTM_Zone,13S
+#Easting,424546
+#Northing,4417696
+#Height(cm),Temperature(degC)
+62,-9
+60,-9
+50,-9.5
+40,-9
+30,-7.5
+20,-6
+10,-5.5
+0,-4.5

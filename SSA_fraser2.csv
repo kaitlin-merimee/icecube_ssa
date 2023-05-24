@@ -1,0 +1,33 @@
+#Location,Fraser Experimental Forest,,,,,,,,
+#Site,,,,,,,,,
+#Pit_ID,,,,,,,,,
+#Date_Time,2022-02-24-11:30,,,,,,,,
+#UTM_Zone,,,,,,,,,
+#Easting,,,,,,,,,
+#Northing,,,,,,,,,
+#Instrument,,,,,,,,,
+#Profile_ID,,,,,,,,,
+#Operator,Kaitlin ,,,,,,,,
+#Timing,1 hour,,,,,,,,
+#Notes,,,,,,,,,
+#Total_snow_depth(cm),74,,,,,,,,
+#,,,,,,,,,
+#Sample_signal(mV),Reflectance,Specific_surface_area(m^2/kg),Sample_top_height(cm),grain_type,density,Method,Air Temp,Snow Temp,Moisture
+660,56.92,71.2,74.5,DF,103,compacted,-9,NaN,D
+631,55.01,63.9,70,DF,177.5,compacted,-9,-9,D
+555,49.77,47.7,66,FC,177.5,shaved,-9,NaN,D
+419,39.34,27,62,FC,177.5,shaved,-9,-6,D
+352,33.64,19.8,58,FC,190,shaved,-9,-6,D
+284,27.42,14.2,54,FC,190,shaved,-9,NaN,D
+313,30.13,16.4,54,FC,190,shaved,-9,NaN,D
+257,24.81,12.4,49,FC,233.5,shaved,-9,-5,D
+256,24.71,12.3,46,FC,233.5,shaved,-9,NaN,D
+266,25.69,13,42,FC,233.5,shaved,-9,-5,D
+264,25.49,12.8,38,FC,268.5,shaved,-9,-5,D
+240,23.13,11.3,34,FC,268.5,shaved,-9,NaN,D
+260,25.11,12.6,30,FC,288.5,shaved,-9,-3,D
+235,22.63,10.9,26,FC,288.5,shaved,-9,NaN,D
+255,24.62,12.2,22,FC,288.5,shaved,-9,-3,D
+247,23.83,11.7,18,FC,242,shaved,-9,-3,D
+235,22.63,10.9,14,FC,242,shaved,-9,NaN,D
+224,21.52,10.2,10,FC,269,shaved,-9,-2,D

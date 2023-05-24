@@ -1,0 +1,43 @@
+#Location,togwotee pass,,,,,,,,
+#Site,Breccia Creek Bed,,,,,,,,
+#Pit_ID,togwotee1,,,,,,,,
+#Date_Time,2022-03-07-1440,,,,,,,,
+#UTM_Zone,12T,,,,,,,,
+#Easting,575086,,,,,,,,
+#Northing,4846502,,,,,,,,
+#Instrument,,,,,,,,,
+#Profile_ID,,,,,,,,,
+#Operator,"Kaitlin Meyer, Keegan Meyer",,,,,,,,
+#Timing,1.5 hours,,,,,,,,
+#Notes,,,,,,,,,
+#Total_snow_depth(cm),140,,,,,,,,
+#,,,,,,,,,
+#Sample_signal(mV),Reflectance,Specific_surface_area(m^2/kg),Sample_top_height(cm),grain_type,density,Method,Air Temp,Snow Temp,Moisture
+623,54.25,61.2,140,PP,99,compacted,-9,-11.6,D
+504,45.82,38.5,135,PP,99,compacted,-9,NaN,D
+436,40.54,28.8,130,DF,204.5,compacted,-9,-7.8,D
+420,39.24,26.9,125,DF,254.5,compacted,-9,NaN,D
+406,38.09,25.2,120,DF,249,compacted,-9,-6.2,D
+365,34.62,20.9,115,FC,277.5,normal,-9,NaN,D
+333,31.8,18,110,FC,277.5,normal,-9,-5.4,D
+297,28.51,15.1,105,FC,304.5,normal,-9,NaN,D
+289,27.77,14.5,100,FC,304.5,normal,-9,-4.5,D
+278,26.73,13.7,95,FC,333,normal,-9,NaN,D
+297,28.51,15.1,90,FCxr,333,normal,-9,-3.8,D
+324,30.99,17.2,85,FCxr,330,normal,-9,NaN,D
+324,30.99,17.2,80,FCxr,330,normal,-9,-3.4,D
+310,29.72,16.1,75,FCxr,332.5,normal,-9,NaN,D
+291,27.95,14.7,70,FCxr,332.5,normal,-9,-3.3,D
+280,26.92,13.9,65,FCxr,330.5,normal,-9,NaN,D
+305,29.26,15.7,60,FCxr,330.5,normal,-9,-3,D
+291,27.95,14.7,55,FCxr,316,normal,-9,NaN,D
+258,24.8,12.4,50,FCxr,316,normal,-9,-2.5,D
+284,27.29,14.1,45,FCxr,295,normal,-9,NaN,D
+235,22.53,10.9,40,FCxr,295,normal,-9,-2.2,D
+221,21.12,10,35,FCxr,326.5,normal,-9,NaN,D
+230,22.03,10.6,30,FC,326.5,normal,-9,-1.5,D
+238,22.83,11.1,25,FC,337.5,normal,-9,NaN,D
+195,18.45,8.3,20,MFcr,337.5,stacked,-9,-1.8,D
+234,22.43,10.8,15,MFcr,309,not stacked,-9,NaN,D
+214,20.41,9.5,10,DH,309,normal,-9,-1.7,D
+240,23.03,11.2,5,DH,309,normal,-9,NaN,D

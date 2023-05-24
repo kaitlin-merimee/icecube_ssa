@@ -1,0 +1,20 @@
+#Location,Moab
+#Site,La Sal Mountain SnoTel
+#Pit_ID,lasal2
+#Date_Time,2022-03-18-1500
+#UTM_Zone,12S
+#Easting,650836
+#Northing,4260561
+#Height(cm),Temperature(degC)
+104,-3.1
+100,-5
+90,-5
+80,-3.8
+70,-2.7
+60,-2
+50,-1.6
+40,-1.1
+30,-0.8
+20,-0.5
+10,-0.2
+0,0

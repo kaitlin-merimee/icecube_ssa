@@ -1,0 +1,17 @@
+#Location,Moab,,,,
+#Site,La Sal Mountain SnoTel,,,,
+#Pit_ID,lasal2,,,,
+#Date_Time,2022-03-18-1500,,,,
+#UTM_Zone,12S,,,,
+#Easting,650836,,,,
+#Northing,4260561,,,,
+#Top(cm),Bottom(cm),Density_A(kg/m^3),Density_B(kg/m^3),Density_C(kg/m^3),Avg_density(kg/m^3)
+103,93,153,160,,156.5
+93,83,221,226,,223.5
+83,73,280,264,,272
+73,63,260,250,,255
+63,53,309,295,,302
+53,43,315,323,,319
+43,33,300,350,,325
+33,23,328,320,,324
+23,13,291,297,,294

@@ -1,0 +1,81 @@
+#Location,"Quebec, Canada",,,,,
+#Site,Foret Montmorency,,,,,
+#Pit_ID,fm1,,,,,
+#Date_Time,2022-02-15-1000,,,,,
+#UTM_Zone,19T,,,,,
+#Easting,336107,,,,,
+#Northing,5239450,,,,,
+#Instrument,,,,,,
+#Profile_ID,,,,,,
+#Operator,KM,,,,,
+#Timing,,,,,,
+#Notes,,,,,,
+#Total_snow_depth(cm),147,,,,,
+#,,,,,,
+#Sample_signal(mV),Reflectance,Specific_surface_area(m^2/kg),Sample_top_height(cm),grain_type,density,Comments
+690,58.65,78.8,147,PP,101,rimed dendrites
+586,51.79,53.3,146,DF,101,/
+589,52,54,145,DF,101,/
+591,52.13,54.4,143,DF,122,/
+531,47.88,43.1,141,DF,122,/
+528,47.66,42.5,139,DF,178,/
+551,49.32,46.6,137,DF,210,/
+506,46.03,38.9,135,DF,210,/
+493,45.05,36.9,133,DF,245,/
+475,43.67,34.2,131,DF,245,/
+529,47.73,42.7,129,DF,275,/
+517,46.85,40.7,127,DF,287,/
+504,45.88,38.6,125,DF,287,/
+490,44.82,36.5,123,RG,281,"/, rounds"
+474,43.6,34.1,121,RG,281,"/, rounds"
+480,44.06,35,120,RG,281,"/, rounds"
+456,42.19,31.6,117,RG,216,"/, rounds"
+461,42.59,32.3,116,RG,216,"/, rounds"
+497,45.35,37.5,114,RG,216,"/, rounds"
+515,46.7,40.4,112,RG,216,"/, rounds"
+468,43.13,33.2,109,RG,234,rounds
+456,42.19,31.6,107,RG,247,rounds
+434,40.44,28.7,105,RG,247,rounds
+427,39.88,27.8,103,RG,266,rounds
+434,40.44,28.7,101,RG,266,rounds
+389,36.73,23.4,99,RGxf,279,faceting rounds
+403,37.91,25,97,RGxf,279,faceting rounds
+360,34.25,20.5,95,RGxf,280,faceting rounds
+391,36.9,23.7,93,RGxf,280,faceting rounds
+361,34.34,20.6,91,RGxf,270.5,faceting rounds
+351,33.46,19.6,89,FC,261,facets
+335,32.05,18.2,88,FC,261,facets
+343,32.76,18.9,85,FC,261,facets
+305,29.32,15.8,83,FC,265,facets
+314,30.15,16.5,81,MF,265,melt freeze with facets
+288,27.73,14.5,78,MF,267,melt freeze with facets
+282.7,27.23,14.1,76,MF,267,melt freeze with facets
+264,25.44,12.8,74,MF,267,melt freeze with facets
+288,27.73,14.5,72,MF,265,melt freeze with facets
+275,26.5,13.6,70,MF,265,melt freeze with facets
+268,25.83,13.1,68,MF,305,melt freeze with facets
+252,24.28,12,66,MF,305,melt freeze with facets
+268,25.83,13.1,65,MF,305,melt freeze with facets
+212,20.26,9.5,62,IF,309,ice melt freeze facets depth hoar mess
+181,17.02,7.5,60,IF,323,ice melt freeze facets depth hoar mess
+226,21.69,10.3,58,IF,275,ice melt freeze facets depth hoar mess
+255,24.57,12.2,52,IF,290,ice melt freeze facets depth hoar mess
+249,23.98,11.8,50,IF,300,ice melt freeze facets depth hoar mess
+104,8.43,2.9,49,IF,310,ice melt freeze facets depth hoar mess
+86,6.31,2.3,45,IF,310,ice melt freeze facets depth hoar mess
+245,23.59,11.6,42,FC,370,"facets, melt freeze polycrystals"
+261,25.15,12.6,39,FC,370,"facets, melt freeze polycrystals"
+270,26.02,13.2,36,FC,392,"facets, melt freeze polycrystals"
+282,27.17,14.1,33,FC,392,"facets, melt freeze polycrystals"
+246.4,23.73,11.6,31,FC,330,"facets, melt freeze polycrystals"
+248,23.88,11.7,29,FC,330,"facets, melt freeze polycrystals"
+238,22.89,11.1,25,FC,330,"facets, melt freeze polycrystals"
+267,25.73,13,23,FC,342,"facets, melt freeze polycrystals"
+216,20.67,9.7,21,FC,342,"facets, melt freeze polycrystals"
+185,17.45,7.7,19,FC,355,"facets, melt freeze polycrystals"
+218,20.88,9.8,16,DH,355,depth hoar
+246,23.69,11.6,14,DH,314,depth hoar
+247,23.78,11.7,12,DH,314,depth hoar
+249,23.98,11.8,10,DH,314,depth hoar
+256,24.67,12.3,10,DH,314,depth hoar
+242,23.29,11.4,8,DH,314,depth hoar

@@ -1,0 +1,15 @@
+#Location,Dry Creek,,,,,,
+#Site,Bogus Lower,,,,,,
+#Pit_ID,bogus1,,,,,,
+#Date_Time,2022-03-02-945,,,,,,
+#UTM_Zone,,,,,,,
+#Easting,,,,,,,
+#Northing,,,,,,,
+#Top(cm),Bottom(cm),grain_size,grain_type,secondary_grain_type,hand_hardness,manual_wetness,comments
+110,106,"1,2",RG,-,F,W,wet rounds
+106,105,-,IF,-,K,-,variable
+105,96,"1,2",RG,IF,4F,W,irregular ice masses
+96,94,-,IF,-,K,-,
+94,65,<1,RG,-,P,W,pipes ~1cm
+65,30,<1,RG,-,P,M,
+30,0,<1,RG,-,F,W,

@@ -1,0 +1,56 @@
+#Location,Tetons,,,,,,,,
+#Site,Togwottee Pass,,,,,,,,
+#Pit_ID,togwottee2,,,,,,,,
+#Date_Time,2022-03-31-1400,,,,,,,,
+#UTM_Zone,12T,,,,,,,,
+#Easting,5744890,,,,,,,,
+#Northing,486053,,,,,,,,
+#Instrument,,,,,,,,,
+#Profile_ID,,,,,,,,,
+#Operator,"Kaitlin Meyer, Garreth Meyer",,,,,,,,
+#Timing,1.5 hours,,,,,,,,
+#Notes,,,,,,,,,
+#Total_snow_depth(cm),125,,,,,,,,
+#,,,,,,,,,
+#Sample_signal(mV),Reflectance,Specific_surface_area(m^2/kg),Sample_top_height(cm),grain_type,density,Method,Air Temp,Snow Temp,Moisture
+308,29.95,16.3,125,PP,272,compacted,-0.9,-0.6,M
+283,27.6,14.4,122,RG,272,normal,-0.9,NaN,M
+315,30.59,16.9,119,RG,272,normal,-0.9,NaN,M
+176,16.73,7.3,116,MFcr,272,stacked,-0.9,-0.8,M
+316,30.69,16.9,112,RG,308,normal,-0.9,NaN,M
+326,31.6,17.8,109,RG,308,normal,-0.9,NaN,M
+300,29.2,15.7,106,RG,308,normal,-0.9,-0.5,M
+279,27.21,14.1,103,RG,320,normal,-0.9,NaN,M
+272,26.54,13.6,100,RG,320,normal,-0.9,NaN,M
+252,24.58,12.2,97,RG,320,normal,-0.9,NaN,M
+248,24.19,11.9,94,RG,315.5,normal,-0.9,-0.2,M
+246,23.99,11.8,91,RG,315.5,normal,-0.9,NaN,M
+253,24.68,12.3,88,RG,315.5,normal,-0.9,NaN,M
+246,23.99,11.8,85,RG,341,normal,-0.9,-0.1,M
+268,26.15,13.3,82,RG,341,normal,-0.9,-0.1,M
+262,25.57,12.9,79,RG,341,normal,-0.9,-0.1,M
+268,26.15,13.3,76,FCxr,341,normal,-0.9,-0.1,M
+264,25.76,13,73,FCxr,341,normal,-0.9,-0.1,M
+264,25.76,13,70,FCxr,357,normal,-0.9,-0.1,M
+256,24.98,12.5,67,FCxr,357,normal,-0.9,-0.1,M
+256,24.98,12.5,67,FCxr,357,normal,-0.9,-0.1,M
+254,24.78,12.3,61,FCxr,357,normal,-0.9,-0.1,M
+258,25.18,12.6,58,FCxr,359,normal,-0.9,-0.1,M
+245,23.89,11.8,55,FCxr,359,normal,-0.9,-0.1,M
+231,22.48,10.8,52,FCxr,359,normal,-0.9,-0.1,M
+228,22.18,10.6,49,FCxr,344,normal,-0.9,-0.1,M
+228,22.18,10.6,46,FCxr,344,normal,-0.9,-0.1,M
+216,20.95,9.9,43,FCxr,344,normal,-0.9,-0.1,M
+219,21.26,10.1,40,FCxr,325,normal,-0.9,-0.1,M
+209,20.23,9.4,37,FCxr,325,normal,-0.9,-0.1,M
+184,17.59,7.8,34,FCxr,325,normal,-0.9,-0.1,M
+189,18.12,8.2,31,FCxr,325,normal,-0.9,-0.1,M
+197,18.97,8.7,28,FCxr,307.5,normal,-0.9,-0.1,M
+189,18.12,8.2,25,FCxr,307.5,normal,-0.9,-0.1,M
+257,25.08,12.6,22,FCxr,307.5,normal,-0.9,-0.1,M
+210,20.33,9.5,19,FCxr,NaN,normal,-0.9,-0.1,M
+212,20.54,9.6,16,FCxr,NaN,normal,-0.9,-0.1,M
+254,24.78,12.3,13,FCxr,NaN,normal,-0.9,-0.1,M
+235,22.89,11.1,10,FCxr,NaN,normal,-0.9,-0.1,M
+234,22.79,11,7,FCxr,NaN,normal,-0.9,-0.1,M
+231,22.48,10.8,4,FCxr,NaN,normal,-0.9,-0.1,M

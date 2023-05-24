@@ -1,0 +1,15 @@
+#Location,Bacon Rind
+#Site,BR1
+#PitID,BR1-20220103
+#Date/Time,2022-01-03-16:45
+#UTM Zone,12T
+#Easting [m],494907
+#Northing [m],4977754
+Top(cm),"Bottom(cm), Grain Size, Grain Type, Hand Hardness, Manual Wetness, Comments"
+71,"63, 0.3-1mm, PP, F, D, N/A"
+63,"47, 0.3-0.5mm, DF, 4F, D, N/A"
+47,"30, 0.3-1mm, RG, 1F, D, N/A"
+30,"23, 1-1.5mm, FC, 4F, D, N/A"
+23,"15, 0.5-1.5mm, FCxr, 1F, D, N/A"
+15,"8, 0.5-1mm, RG, P, D, N/A"
+8,"0, 1-3mm, FC, 4F-, D, N/A"

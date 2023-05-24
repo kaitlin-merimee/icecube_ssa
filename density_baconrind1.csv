@@ -1,0 +1,13 @@
+#Location,"Yellowstone Park, MT",,,,
+#Site,Bacon Rind,,,,
+#Pit_ID,baconrind1,,,,
+#Date_Time,2022-04-10-1600,,,,
+#UTM_Zone,12T,,,,
+#Easting,495173,,,,
+#Northing,4977549,,,,
+#Top(cm),Bottom(cm),Density_A(kg/m^3),Density_B(kg/m^3),Density_C(kg/m^3),Avg_density(kg/m^3)
+54,44,310,344,,327
+44,34,355,394,,374.5
+34,24,367,400,,383.5
+24,14,435,394,,414.5
+14,4,429,,,429

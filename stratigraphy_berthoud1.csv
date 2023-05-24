@@ -1,0 +1,21 @@
+#Location,"Fraer, CO",,,,,,
+#Site,Berthoud Pass,,,,,,
+#Pit_ID,bp1,,,,,,
+#Date_Time,2022-02-25-1215,,,,,,
+#UTM_Zone,13S,,,,,,
+#Easting,433402,,,,,,
+#Northing,4406251,,,,,,
+#Top(cm),Bottom(cm),grain_size,grain_type,secondary_grain_type,hand_hardness,manual_wetness,comments
+139,131,<1,PP,DF,F,D,
+131,123,<1,DF,-,4F,D,
+123,122.5,1,MFcr,-,P,D,
+122.5,105,"<1;1,2",FCxr,MF,"F,4F",D,inconsistent melt freeze chunks among smaller rounding facets
+105,87,"1,2",FCxr,-,F,D,
+87,86,"1,2",MFcr,-,1F,D,
+86,77,"1,2",FCxr,-,4F,D,
+77,70,"1,2",RG,-,1F,D,
+70,39,<1,RG,-,1F+,D,
+39,32,"1,2",FC,-,F+,D,
+32,29,2,MFcr,-,1F,D,very thin melt freeze crust with facet chains growing off the bottom
+29,10,"2,4",DH,-,F,D,"striations, prisms, some cups"
+10,0,"2,4",Ifbi,"MFcr, DH","P,1F",D,"Inconsistent basal ice, melt freeze crust, and facets"

@@ -1,0 +1,18 @@
+#Location,Tetons
+#Site,Pine Creek Pass Snotel
+#Pit_ID,pine_creek1
+#Date_Time,2022-03-10-1300
+#UTM_Zone,12T
+#Easting,482893
+#Northing,4824138
+#Height(cm),Temperature(degC)
+88,-7.4
+80,-9.5
+70,-6.8
+60,-4.5
+50,-3.1
+40,-2.6
+30,-2
+20,-1.5
+10,-0.7
+0,0

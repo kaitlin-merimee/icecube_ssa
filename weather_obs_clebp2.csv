@@ -1,0 +1,22 @@
+label,obs
+#Location,Bonnie Park
+#Site,2
+#Pit_ID,20220131clebp2
+#Date_Time,2022-01-31-11:00
+#UTM_Zone,17T
+#Easting,430162
+#Northing,4576024
+#Slope,0
+#Aspect,N
+#Air_Temp(deg_c),-1
+#Total_depth(cm),25
+#Surveyors,Kaitlin Meyer
+#Weather,NaN
+#Precip,None
+#Sky,CLR
+#Wind,Calm
+#Ground_condition,0
+#Ground_vegetation,grass
+#Vegetation_height,NaN
+#Tree_canopy,partial
+#Comments,NaN
